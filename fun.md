@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fun
-id: fun
-permalink: /fun/
+title: About me
+id: boutme
+permalink: /boutme/
 ---
 
 Some information about you!
