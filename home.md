@@ -14,7 +14,6 @@ I am a second-year Ph.D student in the Department of Linguistics at Cornell Univ
 When I'm not doing linguistics, you can likely find me reading about vampire folklore, taking my cat for a walk, rock climbing, or falling down rabbit holes about video game design. 
 
 ### Contact me
-
 [ard248@cornell.edu](mailto:ard248@cornell.edu)
 
 (IPA:/ænəbɛl di lustɾo/)
