@@ -5,8 +5,7 @@ id: home
 permalink: /home/
 ---
 
-### Research interests: 
-Laboratory phonology, phonetics, speaker recognition, sociolinguistics, historical Japanese linguistics
+### Research interests: Laboratory phonology, phonetics, speaker recognition, sociolinguistics, historical Japanese linguistics
 
 I am a second-year Ph.D student in the Department of Linguistics at Cornell University. I am a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/">Cornell Phonetics Lab (PLab)</a>, and I can most often be found inside our soundbooth working on my current research investigating vowel nasalization in Japanese. Before coming to Cornell, I completed BAs in English (Linguistics) and Asian Languages and Literatures (Japanese) at <a target="_blank" rel="noopener" href="https://linguistics.chass.ncsu.edu/">NC State University</a>. 
 
