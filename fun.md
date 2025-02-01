@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fun
+id: fun
 permalink: /fun/
 ---
 
