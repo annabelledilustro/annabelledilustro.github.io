@@ -2,7 +2,23 @@
 layout: default
 ---
 
-<div class="posts">
+
+<body>
+
+
+  <div id="main" role="main" class="container">
+    {{ content }}
+  </div>
+
+  <div class = "wrapper-footer"> 
+
+  </div>
+
+  {% include analytics.html %}
+</body>
+
+<!-- this was before ... --> 
+<!--<div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -15,4 +31,4 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->
