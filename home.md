@@ -16,4 +16,5 @@ When I'm not doing linguistics, you can likely find me reading about vampire fol
 ### Contact me
 
 [ard248@cornell.edu](mailto:ard248@cornell.edu)
+
 (IPA:/ænəbɛl di lustɾo/)
