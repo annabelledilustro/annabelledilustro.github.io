@@ -5,8 +5,6 @@ id: research
 permalink: /research/
 ---
 
-Some information about you!
-
-### More Information
+### Current Projects
 
 My current projects...
