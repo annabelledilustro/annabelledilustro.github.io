@@ -10,7 +10,7 @@ I am a second-year Ph.D student in the Department of Linguistics at Cornell Univ
 <b>Research interests:</b> laboratory phonology, phonetics, speaker recognition, sociolinguistics, and historical Japanese linguistics
 
 <!-- link 'cat' to an image of corny --> 
-When I'm not doing linguistics, you can likely find me reading about vampire folklore, taking my cat for a walk, rock climbing, or falling down rabbit holes about video game design. 
+When I'm not doing linguistics, you can likely find me reading books about vampire folklore, taking my cat for a walk, rock climbing, or falling down rabbit holes about video game design. 
 
 ### Contact me
 
