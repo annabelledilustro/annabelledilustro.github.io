@@ -17,3 +17,5 @@ When I'm not doing linguistics, you can likely find me reading books about vampi
 [ard248@cornell.edu](mailto:ard248@cornell.edu)
 
 (IPA:/ænəbɛl di lustɾo/)
+(My last name in words: /'D' 'loose' 'trough'/)
+
