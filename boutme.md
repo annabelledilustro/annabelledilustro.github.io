@@ -12,7 +12,7 @@ I'm an avid horror fan (book, film, and game recommendations are always welcome)
 ### Some links I find fun 
 <a target="_blank" rel="noopener" href="https://batcon.org/wp-content/uploads/2020/09/Bat_Echolocation_Research_2nd_Ed_20200918.pdf">This handbook on acoustic research on bat echolocation</a>. <br>
 
-<a target="_blank" rel="noopener" href="https://www.dgp.toronto.edu/~elf/JALISIG16.pdf ">This work on JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization.
+<a target="_blank" rel="noopener" href="https://www.dgp.toronto.edu/~elf/JALISIG16.pdf ">JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization.
 
 
 
