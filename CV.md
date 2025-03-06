@@ -5,5 +5,5 @@ id: cv
 permalink: /cv/
 ---
 
-PDF document available <a target="_blank" href="https://annabelledilustro.github.io/folder/CV-02272025.pdf" >here</a>. <br>
-(Last updated 02/27/25). 
+PDF document available <a target="_blank" href="https://annabelledilustro.github.io/folder/CV-03062025.pdf" >here</a>. <br>
+(Last updated 03/06/25). 
