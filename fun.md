@@ -14,7 +14,7 @@ I'm an avid horror fan (book, film, and game recommendations are always welcome)
 
 <a target="_blank" rel="noopener" href="https://www.dgp.toronto.edu/~elf/JALISIG16.pdf ">JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization</a>. 
 
-<a target="_blank" rel="noopener" href="https://www.w3schools.com/default.asp)">W3schools has some cool resources for coding basics in a wide variety of languages</a>. 
+<a target="_blank" rel="noopener" href="https://www.w3schools.com/default.asp">W3schools has some cool resources for coding basics in a wide variety of languages</a>. 
 
 
 
