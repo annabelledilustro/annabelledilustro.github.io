@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About me
-id: boutme
-permalink: /boutme/
+title: Fun
+id: fun
+permalink: /fun/
 ---
 
 ### Vampiric Linguistics 
