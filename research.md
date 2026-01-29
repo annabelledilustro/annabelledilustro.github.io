@@ -8,6 +8,8 @@ permalink: /research/
 <!-- ### Current Projects -->
 #### Voice Disguise through Whispering 
 
+(with <a target="_blank" rel="noopener" href="https://linguistics.cornell.edu/samuel-tilsen">Sam Tilsen</a>)
+
 My current research investigates the impact of whispering during speech as a method of voice disguise. Fundamental frequency has been argued as an important characteristic in speaker identification tasks. The prototypical lack of vocal fold vibration during whispered speech removes fundamental frequency and related prosodic cues from the speech signal. We designed a perception experiment to test whether this lack of F0 information during whispered speech impedes successful speaker discrimination when presented with normal speech and speech disguised via whisper. 
 
 #### Aerodynamic investigation of vowel nasalization in Japanese 
