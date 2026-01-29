@@ -10,7 +10,7 @@ I am a third-year Ph.D student in the <a target="_blank" rel="noopener" href="ht
 <b>Research interests:</b> phonetics, sociolinguistics, voice disguise, and speaker recognition  
 
 <!-- link 'cat' to an image of corny --> 
-When I'm not doing linguistics, you can likely find me reading books about vampire folklore, taking my <a target="_blank" rel="noopener" href="https://annabelledilustro.github.io/folder/corny_walk.jpg" >cat</a> for a walk, rock climbing, or falling down rabbit holes about game design. 
+When I'm not doing linguistics, you can likely find me watching a horror movie, taking my <a target="_blank" rel="noopener" href="https://annabelledilustro.github.io/folder/corny_walk.jpg" >cat</a> for a walk, or rock climbing.  
 
 ### Contact me
 
