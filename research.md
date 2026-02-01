@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 <!-- ### Current Projects -->
-#### Voice Disguise through Whispering 
+#### Whispered speech as a method of voice disguise
 
 (with <a target="_blank" rel="noopener" href="https://linguistics.cornell.edu/samuel-tilsen">Sam Tilsen</a>)
 
