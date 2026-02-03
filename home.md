@@ -11,6 +11,7 @@ My main research interests include phonetics, voice disguise, speaker recognitio
 <!-- 
 I'm particularly interested in how talkers can modify identifiable facets of their speech such as pitch, phonation quality, or timing characteristics to disguise their identity. My <a target="_blank" rel="noopener" href="https://annabelledilustro.github.io/research/">current research</a> looks specifically at whisper as a method of voice disguise, with its lack of pitch information and different lengthing/shortening effects possibly distorting certain talker-specific attributes. 
 
+--> 
 
 <!-- link 'cat' to an image of corny --> 
 When I'm not doing linguistics, you can likely find me (re)watching a horror movie, taking my <a target="_blank" rel="noopener" href="https://annabelledilustro.github.io/folder/corny_walk.jpg" >cat</a> for a walk, or rock climbing. 
