@@ -12,7 +12,7 @@ permalink: /research/whispered-speech/
             border-radius:6px;
             text-decoration:none;
             font-weight:500;">
-    Abstract PDF
+    PDF
   </a>
 
   <a href="https://.../folder/corny_walk.jpg" target="_blank"
@@ -22,7 +22,7 @@ permalink: /research/whispered-speech/
             border-radius:6px;
             text-decoration:none;
             font-weight:500;">
-    Poster
+    POSTER
   </a>
 
 </div>
