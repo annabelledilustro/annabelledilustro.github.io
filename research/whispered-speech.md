@@ -10,8 +10,8 @@ permalink: /research/whispered-speech/
 
   <a href="https://annabelledilustro.github.io/folder/Prosodically-conditioned_temporal_variation_in_whispered_vs_normal_speech.pdf" target="_blank"
      style="display:inline-block;
-            padding:4px 8px;
-            font-size:12px;
+            padding:5px 10px;
+            font-size:14px;
             background:#8B0000;
             color:white;
             border:1px solid #8B0000;
@@ -23,8 +23,8 @@ permalink: /research/whispered-speech/
 
   <a href="https://annabelledilustro.github.io/folder/corny_walk.jpg" target="_blank"
      style="display:inline-block;
-            padding:4px 8px;
-            font-size:12px;
+            padding:5px 10px;
+            font-size:14px;
             background:#8B0000;
             color:white;
             border:1px solid #8B0000;
