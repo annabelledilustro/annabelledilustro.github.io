@@ -10,11 +10,17 @@ I am a third-year Ph.D. student in the <a target="_blank" rel="noopener" href="h
 My main research interests include phonetics, voice disguise, speaker recognition, speech kinematics, and speech perception. 
 
 <!-- link 'cat' to an image of corny --> 
-When I'm not doing linguistics, you can likely find me (re)watching a horror movie, taking my <a target="_blank" rel="noopener" href="https://annabelledilustro.github.io/folder/corny_walk.jpg" >cat</a> for a walk, or rock climbing. 
+When I'm not doing linguistics, you can likely find me (re)watching a horror movie<a href="#fn1" id="ref1"><sup>1</sup></a>, taking my <a target="_blank" rel="noopener" href="https://annabelledilustro.github.io/folder/corny_walk.jpg" >cat</a> for a walk, or rock climbing. I also tutor presenting and writing with Cornell's <a target="_blank" rel="noopener" href="https://elso.as.cornell.edu/tutoring-writing-presenting">English Language Support Office</a>. <br>
+
+
+
+<hr>
+
+<p style="font-size:13px; color:#666;" id="fn1">
+<sup>1</sup> I share no legal or professional affiliation with the doll of my same name.
+<a href="#ref1">↩</a>
+</p> <br> 
 <!--
-I also work as a Presenting and Writing Tutor for the <a target="_blank" rel="noopener" href="https://elso.as.cornell.edu/">English Language Support Office</a>. 
---> 
-<!-- 
 <b>Words</b> to bold something
 -->
 ### Contact me
