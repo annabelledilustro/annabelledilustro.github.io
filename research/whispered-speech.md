@@ -3,7 +3,7 @@ layout: page
 title: Prosodically-conditioned temporal variation in whispered vs. normal speech 
 permalink: /research/whispered-speech/
 ---
-<h3 style="text-align:center; margin-top:-10px; margin-bottom:20px;">
+<h3 style="text-align:left; margin-top:-10px; margin-bottom:15px;">
   <strong>Annabelle di Lustro</strong>, Sam Tilsen 
 </h3>
 <br>
