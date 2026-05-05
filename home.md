@@ -18,7 +18,7 @@ When I'm not doing linguistics, you can likely find me (re)watching a horror mov
 
 <p style="font-size:13px; color:#666;" id="fn1">
 <sup>1</sup> I share no legal or professional affiliation with the doll of my same name.
-<a href="#ref1">↩</a>
+<a href="#ref1"></a>
 </p> <br> 
 <!--
 <b>Words</b> to bold something
