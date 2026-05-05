@@ -5,7 +5,7 @@ permalink: /research/whispered-speech/
 ---
 <div style="display:flex; justify-content:center; gap:12px; margin-bottom:25px;">
 
-  <a href="https://.../folder/Prosodically-conditioned_temporal_variation_in_whispered_vs_normal_speech.pdf" target="_blank"
+  <a href="https://annabelledilustro.github.io/folder/Prosodically-conditioned_temporal_variation_in_whispered_vs_normal_speech.pdf" target="_blank"
      style="display:inline-block;
             padding:10px 16px;
             border:1px solid #333;
@@ -15,7 +15,7 @@ permalink: /research/whispered-speech/
     PDF
   </a>
 
-  <a href="https://.../folder/corny_walk.jpg" target="_blank"
+  <a href="https://annabelledilustro.github.io/folder/corny_walk.jpg" target="_blank"
      style="display:inline-block;
             padding:10px 16px;
             border:1px solid #333;
