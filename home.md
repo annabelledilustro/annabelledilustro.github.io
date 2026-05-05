@@ -5,7 +5,7 @@ id: home
 permalink: /home/
 ---
 
-I am a third-year Ph.D. student in the <a target="_blank" rel="noopener" href="https://linguistics.cornell.edu/current-graduate-students">Department of Linguistics</a> at Cornell University and a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/">Cornell Phonetics Lab (PLab)</a>. I also tutor presenting and writing with Cornell's <a target="_blank" rel="noopener" href="https://elso.as.cornell.edu/tutoring-writing-presenting">English Language Support Office</a>. Before coming to Cornell, I completed BAs in English (Linguistics) and Asian Languages and Literatures (Japanese) at <a target="_blank" rel="noopener" href="https://linguistics.chass.ncsu.edu/">NC State University</a>. 
+I am a third-year Ph.D. student in the <a target="_blank" rel="noopener" href="https://linguistics.cornell.edu/current-graduate-students">Department of Linguistics</a> at Cornell University and a member of the Cornell Phonetics Lab <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/">(PLab)</a>. I also tutor presenting and writing with Cornell's <a target="_blank" rel="noopener" href="https://elso.as.cornell.edu/tutoring-writing-presenting">English Language Support Office</a>. Before coming to Cornell, I completed BAs in English (Linguistics) and Asian Languages and Literatures (Japanese) at <a target="_blank" rel="noopener" href="https://linguistics.chass.ncsu.edu/">NC State University</a>. 
 
 My main research interests include phonetics, voice disguise, speaker recognition, speech kinematics, and speech perception. 
 
