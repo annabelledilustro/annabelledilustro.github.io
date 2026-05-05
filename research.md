@@ -22,7 +22,8 @@ My current research investigates the impact of whispering during speech as a met
 ### Prosodically-conditioned temporal variation in whispered vs. normal speech 
 [View project →]({{ site.baseurl }}/research/whispered-speech/)
 --> 
-<div style="margin-bottom:20px;">
+
+<div style="margin-bottom:20px;line-height:1.15;">
   <h3>Prosodically-conditioned temporal variation in whispered vs. normal speech</h3>
   <!--<p>This project compares whispered and normal speech production.</p> -->
   <p> with <a target="_blank" rel="noopener" href="https://linguistics.cornell.edu/samuel-tilsen">Sam Tilsen</a> </p>
