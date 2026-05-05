@@ -6,8 +6,6 @@ permalink: /research/whispered-speech/
 <h3 style="text-align:left; margin-top:-10px; margin-bottom:15px;">
   <strong>Annabelle di Lustro</strong>, Sam Tilsen 
 </h3>
-<br>
-
 <div style="display:flex; justify-content:center; gap:12px; margin-bottom:25px;">
 
   <a href="https://annabelledilustro.github.io/folder/Prosodically-conditioned_temporal_variation_in_whispered_vs_normal_speech.pdf" target="_blank"
