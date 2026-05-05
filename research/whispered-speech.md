@@ -74,8 +74,8 @@ temporal adjustments in whisper are not attributable to the need to inhale more 
 </p>
 
 ## References 
-[1] Tartter, V. C. (1989). What’s in a whisper?. J. Acoust. Soc. Am., 86(5), 1678–1683. 
-[2] Schwartz, M. F. (1972). Bilabial Closure Durations for /p/, /b/, and /m/ in Voiced and Whispered Vowel Environments. J. Acoust. Soc. Am., 51(6B), 2025–2029.
+[1] Tartter, V. C. (1989). What’s in a whisper?. J. Acoust. Soc. Am., 86(5), 1678–1683. <br>
+[2] Schwartz, M. F. (1972). Bilabial Closure Durations for /p/, /b/, and /m/ in Voiced and Whispered Vowel Environments. J. Acoust. Soc. Am., 51(6B), 2025–2029. <br>
 [3] McAuliffe, M., Socolof M., Mihuc S., Wagner M., and Sonderegger M. (2017). Montreal Forced Aligner: trainable text-speech alignment using Kaldi. In Proceedings of the 18th Conference of the International Speech Communication Association.
 
 
