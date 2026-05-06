@@ -27,7 +27,7 @@ h1 {
     PDF
   </a>
 
-  <a href="https://annabelledilustro.github.io/folder/corny_walk.jpg" target="_blank"
+  <a href="https://annabelledilustro.github.io/images/POSTER_whisper_vs_normal_speech.pdf" target="_blank"
      style="display:inline-block;
             padding:5px 10px;
             font-size:14px;
