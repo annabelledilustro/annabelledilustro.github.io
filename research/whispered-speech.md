@@ -14,19 +14,6 @@ h1 {
 </h3>
 <div style="display:flex; gap:12px; margin-bottom:25px;">
 
-  <a href="https://annabelledilustro.github.io/folder/Prosodically-conditioned_temporal_variation_in_whispered_vs_normal_speech.pdf" target="_blank"
-     style="display:inline-block;
-            padding:5px 10px;
-            font-size:14px;
-            background:#8B0000;
-            color:white;
-            border:1px solid #8B0000;
-            border-radius:6px;
-            text-decoration:none;
-            font-weight:500;">
-    PDF
-  </a>
-
   <a href="https://annabelledilustro.github.io/images/POSTER_whisper_vs_normal_speech.pdf" target="_blank"
      style="display:inline-block;
             padding:5px 10px;
