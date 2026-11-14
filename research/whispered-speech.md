@@ -60,7 +60,7 @@ prosodic adjustment of whispered speech is an exaggeration of phrase-final lengt
 suggesting compensation for the absence of F0-related prosodic cues. 
 
 ## Methods
-Data were collected from 20 native English speakers (16F, 4M) through an online 
+Data were collected from 32 native English speakers (26F, 4M, 2NB) through an online 
 production experiment on Labvanced. The speakers read The North Wind and the Sun passage 5 
 times in a whispered voice and 5 times in normal vocalized speech. Participants were instructed 
 on how to whisper without voicing. Word- and segment-level alignments were generated with the 
@@ -76,15 +76,15 @@ duration with a fixed effect of condition and random intercepts for speakers.
 ## Results 
 Nearly all participants produced words more slowly in whispered speech (Fig. 1a) but 
 most paused less, both proportionally (Fig. 1b) and in terms of total pause duration. The regression model fixed effects show that whisper reduced articulation rate by 0.6 words/s and decreased pausing by 4% of passage duration. Participants pausing less despite speaking slower suggests that 
-temporal adjustments in whisper are not attributable to the need to inhale more frequently. Instead, word-level analyses (Fig. 2) showed that durational effects were predominantly localized to phrase-final prosodic positions and to a lesser extent, phrase-initial prosodic positions: of the ten largest word effects, eight occur in phrase-final positions. Segment-level analyses showed that whisper was associated with more segmental lengthening than shortening; significantly lengthened segments tended to be word-final, while shortened segments were predominantly initial. Contrary to some previous studies [2], our results suggest that speakers make prosodically conditioned temporal adjustments to facilitate listener comprehension or to augment feedback, rather than segmental timing adjustments to preserve airflow. 
+temporal adjustments in whisper are not attributable to the need to inhale more frequently. Instead, word-level analyses (Fig. 2) showed that durational effects were predominantly localized to phrase-final prosodic positions and to a lesser extent, phrase-initial prosodic positions: of the ten largest word effects, five occurred in phrase-final positions and three occur in phrase-initial positions. Segment-level analyses showed that whisper was associated with more segmental lengthening than shortening; significantly lengthened segments tended to be word-final, while shortened segments were predominantly initial. Contrary to some previous studies [2], our results suggest that speakers make prosodically conditioned temporal adjustments to facilitate listener comprehension or to augment feedback, rather than segmental timing adjustments to preserve airflow. 
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/speechrate_bypart.png" width="600"><br>
-  <em>Figure 1. Difference in speech rate (a) and difference in unfilled pause proportion (b) between whispered and normal trials by speaker. </em>
+  <img src="{{ site.baseurl }}/images/articulationrate_bypart.png" width="600"><br>
+  <em>Figure 1. Difference in articulation rate (a) and difference in unfilled pause proportion (b) between whispered and normal trials by speaker. </em>
 </p>
 
 <p align="center">
-  <img src="{{ site.baseurl }}/images/byphrase_worddurs.png" width="600"><br>
+  <img src="{{ site.baseurl }}/images/word_durs_byphrase.png" width="600"><br>
   <em>Figure 2. Difference in word duration between whispered and normal trials for The North Wind and the Sun passage, with red denoting significance. Ad-hoc passage portions are presented in order from left to right, top to bottom. </em>
 </p>
 
